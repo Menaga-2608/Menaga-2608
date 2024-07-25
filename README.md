@@ -1,4 +1,5 @@
 # hello-Menaga
+Today is Thursday
 Hello Menaga, repository for Git tutorial
 
 This is the first learning example in git 
