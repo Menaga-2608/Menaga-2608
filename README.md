@@ -9,3 +9,10 @@ Noy your day with new learnings
 Pleasant morning
 .......................
 ........................
+
+
+This line is here to show how merging works.
+
+This line is here to show how merging works.
+
+This line is here to show how merging works.
